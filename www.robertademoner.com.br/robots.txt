@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /v2/
+Disallow: /atendimento/
+Disallow: /metatraffic/
+Disallow: /videos/
